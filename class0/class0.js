@@ -27,6 +27,8 @@ console.log(sum); // 20.5
 let firstName = "Vikash";
 let lastName = "Kumar";
 
+let myName = "My Name";
+
 
 // let fullName = firstName +" "+lastName;
 // console.log(firstName[5]); // h
@@ -43,6 +45,24 @@ console.log(firstChar+lastCharOfFirstName); // V
 
 
 // console.log("K n Singth " + firstName[0]+firstName[6]);
+
+/// boolean in js
+// let isPublished = false;
+let isLoggedIn = false;
+
+let shushu = null;
+
+console.log(shushu);
+
+if(isLoggedIn){
+    console.log("User is logged in");
+}else{
+    console.log("User is not logged in");
+}
+
+
+console.log(myName);
+
 
 
 
